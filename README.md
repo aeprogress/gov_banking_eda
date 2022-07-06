@@ -55,10 +55,10 @@ The data comes from [Social Development Bank](https://data.gov.sa/Data/en/organi
 ```
 
 ## Used Libraries
-- pandas 
-- numpy 
-- matplotlib 
-- seaborn 
-- arabic_reshaper
-- bidi.algorithm
-- plotly
+`pandas` 
+`numpy` 
+`matplotlib`
+`seaborn`
+`arabic_reshaper`
+`bidi.algorithm`
+`plotly`
