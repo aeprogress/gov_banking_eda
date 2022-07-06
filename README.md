@@ -29,7 +29,7 @@ The data comes from [Social Development Bank](https://data.gov.sa/Data/en/organi
 تصنيف الدخل الى مجموعات ما بين (ضعيف، متوسط، مرتفع، الخ)	|نوع الدخل
 السنة التي صرف فيها التمويل	|السنة
 
-*For the english description of data refer to the presentation file*
+* *For the english description of data refer to the presentation file*
 
 
 
