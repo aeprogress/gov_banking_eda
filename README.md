@@ -1,4 +1,5 @@
 # Goverment Banking EDA
+View the report [here](https://aeprogress.github.io/gov_banking_eda/gov_banking_eda.html)
 
 ## Social Development Bank 2017-2022
 Social Development Bank dataset is an open source data provided by the Open Data portal of Saudi Arabia initiative. The social funding products are designed to target an important community segment in the Saudi Arabia, the underprivileged citizens, offering them an opportunity to obtain simple and easy loans which enable them to meet necessary obligations
